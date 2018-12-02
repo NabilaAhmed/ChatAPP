@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275119270907",
+    "firebase_url": "https://chtatapp.firebaseio.com",
+    "project_id": "chtatapp",
+    "storage_bucket": "chtatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275119270907:android:ecaca0611e72fa9a",
+        "android_client_info": {
+          "package_name": "com.example.android.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275119270907-kmthqv6qm2o8gos85bqo391akb64s5vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBzfN_B_2NViV19jibAKSY2PBglNBqkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
